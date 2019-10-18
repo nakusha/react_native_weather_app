@@ -1,0 +1,25 @@
+expo download (핸드폰에서 앱이 실행되게 한다.)
+    ios expo clinet(app store)
+    android expo(play store)
+    https://expo.io/
+
+node 10이상
+npm 6이상
+
+android studio or xcode (for simulator)
+or expo installed phone
+
+
+expo 설치
+npm install -g expo-cli
+설치후 init
+
+expo init AwesomeProject(폴더명)
+npm start
+  qrcode = android
+  ios = iphone: expo 로그인 
+        console: expo login
+
+git remote add origin 주소
+git pull origin master --allow-unrelated-histories
+
