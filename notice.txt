@@ -20,6 +20,9 @@ npm start
   ios = iphone: expo 로그인 
         console: expo login
 
+expo ctrl+d -> expo개발자 모드(아니면 한번 흔들기)
+
+
 git remote add origin 주소
 git pull origin master --allow-unrelated-histories
 
