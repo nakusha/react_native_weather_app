@@ -16,7 +16,7 @@ npm install -g expo-cli
 
 expo init AwesomeProject(폴더명)
 npm start
-  qrcode = android
+  qrcode = android 
   ios = iphone: expo 로그인 
         console: expo login
 
@@ -26,3 +26,8 @@ expo ctrl+d -> expo개발자 모드(아니면 한번 흔들기)
 git remote add origin 주소
 git pull origin master --allow-unrelated-histories
 
+
+Geolocation
+  https://facebook.github.io/react-native/docs/geolocation
+  https://docs.expo.io/versions/v35.0.0/sdk/location/
+  expo install expo-location
