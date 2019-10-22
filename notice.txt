@@ -31,3 +31,11 @@ Geolocation
   https://facebook.github.io/react-native/docs/geolocation
   https://docs.expo.io/versions/v35.0.0/sdk/location/
   expo install expo-location
+
+
+Linear Gradient
+  expo install expo-linear-gradient
+  https://docs.expo.io/versions/v35.0.0/sdk/linear-gradient/
+  
+  Gradient Sample
+  https://uigradients.com/#Petrol
