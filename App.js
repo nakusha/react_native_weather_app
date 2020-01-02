@@ -6,7 +6,7 @@ import Weather from "./Weather";
 import * as Location from "expo-location";
 import axios from "axios";
 
-const API_KEY = "adaeb5b7674b723f84d69010bef2a96c";
+const API_KEY = "";
 
 export default class extends React.Component {
   state = {
